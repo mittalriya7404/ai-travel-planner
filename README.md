@@ -40,26 +40,17 @@
  
 <br><h2 id="layout">🎨 Layout</h2>
 
-<p>
-Home Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png" alt="">
+Output 
+![3](https://github.com/user-attachments/assets/3656b753-f7d8-4c77-a27b-859309b6ed46)
 
-Google OAuth Sign in:
-  <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/2.png" alt="">
-  
-Create Trip Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png" alt="">
+ ![1](https://github.com/user-attachments/assets/e2ce6d7e-3deb-4f30-80db-2fbdf09c36db)
 
-View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="75%" align="center">
+![3 1](https://github.com/user-attachments/assets/18722b39-3164-4a26-a465-f46d8aa4a434)
+![2](https://github.com/user-attachments/assets/7990a076-faee-4b33-ab6d-a915dd3d5fdd)
+![4](https://github.com/user-attachments/assets/c30d4a4a-565c-4154-abe8-5af95fe854b0)
+![6](https://github.com/user-attachments/assets/2ab011c8-738a-487b-ac5d-4b68a8135d4a)
+![7](https://github.com/user-attachments/assets/e53335ac-cd56-428b-9606-0cb36a6eea0b)
 
-My Trips Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
-
-Responsive view on mobile: <br>
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
-</p>
- 
 
 <h2 id="pre">🗁 Prerequisites</h2>
 
